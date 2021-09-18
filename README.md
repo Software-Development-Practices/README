@@ -24,6 +24,15 @@ email: zlemzlem5656@naver.com
 email: pgg6713@gmail.com
 github : [박찬혁 깃허브](https://github.com/ChanhyukPark-Tech)
 
+### 김승환
+
+전공 : 신산업소프트웨어학과 융합전공  
+학번 : 2016001221
+
+### contact
+
+email : seunghwan9703@gmail.com
+
 ## Commit Conventions
 
 참고자료: [좋은 git 커밋 메시지를 작성하기 위한 8가지 약속](https://djkeh.github.io/articles/How-to-write-a-git-commit-message-kor/)
