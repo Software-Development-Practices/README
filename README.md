@@ -32,6 +32,15 @@ github : [박찬혁 깃허브](https://github.com/ChanhyukPark-Tech)
 ### contact
 
 email : seunghwan9703@gmail.com
+### 김다예
+
+전공: 소프트웨어학부 소프트웨어전공
+학번: 2020064448
+
+#### Contact
+
+email: kimdaye77@naver.com
+github : [김다예 깃허브](https://github.com/kimdaye77)
 
 ## Commit Conventions
 
