@@ -24,6 +24,14 @@ email: zlemzlem5656@naver.com
 email: pgg6713@gmail.com
 github : [박찬혁 깃허브](https://github.com/ChanhyukPark-Tech)
 
+### 김승환
+
+전공 : 신산업소프트웨어학과 융합전공  
+학번 : 2016001221
+
+### contact
+
+email : seunghwan9703@gmail.com
 ### 김다예
 
 전공: 소프트웨어학부 소프트웨어전공
