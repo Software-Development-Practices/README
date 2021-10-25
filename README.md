@@ -1,6 +1,5 @@
 # 👊 주먹구구 팀
 
-
 > 주먹구구 팀을 소개합니다.
 
 ## 🚴‍♂️ Teams
@@ -32,6 +31,7 @@ github : [박찬혁 깃허브](https://github.com/ChanhyukPark-Tech)
 ### contact
 
 email : seunghwan9703@gmail.com
+
 ### 김다예
 
 전공: 소프트웨어학부 소프트웨어전공
@@ -50,3 +50,8 @@ github : [김다예 깃허브](https://github.com/kimdaye77)
 - 제목은 명령조로 작성한다.
 - 제목과 본문은 분리해서 작성한다.
 - 본문은 무엇을 보다 `어떻게` 와 `왜` 에 집중해서 작성한다.
+
+### Convention for Jira
+
+- task 하나 : 하나의 브랜치 = 1 : 1 로 작업을 한다.
+- task 의 하위 이슈(하위 작업)가 생길 경우 브랜치는 생성하지 않는다. (미정)
