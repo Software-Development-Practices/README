@@ -65,3 +65,4 @@ github : [김다예 깃허브](https://github.com/kimdaye77)
     - PR: PR 생성할 때 붙여주는 헤더
 - 브랜치 네이밍 컨벤션
   - SETB-{issue number}/{branch name}-{work feature}
+- test
